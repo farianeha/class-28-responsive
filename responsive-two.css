@@ -1,0 +1,289 @@
+@media (max-width:992px) {
+    .banner-contant {
+        margin-top: 12px;
+        text-align: center;
+    }
+    .banner-contant h3 {
+        font-size: 47px;
+        margin: 15px 0;
+    }
+    .banner-contant p {
+        display: inline-block;
+    }
+    .baneer-pic {
+        text-align: center;
+        margin: 10px 0;
+    }
+    .third-section .third-pic {
+        text-align: center;
+    }
+    .third-content {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+
+
+    .using-section {
+        padding: 15px 0 !important;
+    }
+    .using-box-design {
+        padding: 22px 0;
+        margin-bottom: 30px;
+    }
+    .using-box-design p {
+        margin-top: 16px;
+        font-size: 14px;
+    }
+    .using-title {
+        padding-bottom: 15px !important;
+    }
+    .using-button {
+        font-size: 17px;
+        margin-top: 6px;
+    }
+    .team-section {
+        padding-top: 36px;
+        padding-bottom: 17px;
+    }
+    .team-contant h4 {
+        font-size: 28px;
+    }
+    .team-box {
+        margin-bottom: 30px;
+    }
+    .team-pic img {
+        top: -9px;
+        left: -118px;
+    }
+    .website-btn a {
+        padding: 33px 33px;
+        padding: 6px 24px;
+        font-size: 20px;
+        margin-bottom: 39px;
+        margin-top: 10px;
+    }
+    .form-div {
+        padding: 0 !important;
+    }
+    .contact-text {
+        margin-top: 24px;
+        text-align: center;
+    }
+    .contact-text h3 {
+        text-align: center;
+        padding-bottom: 1px;
+        font-weight: 600;
+    }
+    .contact-text ul {
+        list-style: none;
+    }
+    .footer-section {
+        padding: 6px 0;
+    }
+    .footer-section p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+}
+
+@media (max-width:787px) {
+    .counter-section {
+        padding: 23px 0 !important;
+    }
+    
+}
+
+@media (max-width:767px) {
+    .using-box-design {
+        margin-bottom: 22px !important;
+        margin: 0 55px;
+    }
+    .using-box-design span {
+        height: 110px;
+        width: 110px;
+        line-height: 105px;
+        font-size: 38px;
+    }
+    .using-box-design h5 {
+        font-size: 25px;
+        margin-top: 17px;
+    }
+    .using-box-design p {
+        margin-top: 17px;
+        font-size: 15px;
+    }
+    .using-button {
+        font-size: 15px;
+        margin-top: 16px;
+    }
+    .team-box {
+        margin-bottom: 30px !important;
+        margin: 0 48px;
+    }
+    .team-pic img {
+        top: -5px;
+        left: -167px;
+    }
+}
+
+@media (max-width:576px) {
+    .banner-contant {
+        width: 85%;
+        margin: auto;
+    }
+    .baneer-pic {
+        width: 85%;
+        margin: auto;
+    }
+    .banner-contant h3 {
+        font-size: 40px;
+        margin: 6px 0;
+    }
+    .banner-contant p {
+        font-size: 16px;
+        margin-bottom: 19px;
+    }
+    .third-section {
+        padding: 20px 0 !important;
+    }
+    .third-section .third-pic {
+        width: 85%;
+        margin: auto;
+    }
+    .third-content {
+        width: 85%;
+        margin: auto !important;
+    }
+    .third-content h6 {
+        font-size: 22px;
+        margin-top: 19px;
+    }
+    .third-content h3 {
+        font-size: 38px;
+        margin: 8px 0;
+    }
+    .third-content p {
+        font-size: 16px;
+        margin-bottom: 13px;
+    }
+    .counter-box {
+        margin-bottom: 17px !important;
+    }
+    
+}
+
+@media (max-width:488px) {
+    .team-pic img {
+        top: -5px;
+        left: -134px;
+    }
+    .footer-section p {
+        font-size: 12px;
+    }
+    .contact-text li h5 {
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width:400px) {
+    .counter-box span {
+        font-size: 39px;
+    }
+    .team-pic img {
+        top: -6px;
+        left: -91px;
+    }
+    .banner-section {
+        padding: 5px 0;
+    }
+    .banner-contant h3 {
+        font-size: 33px;
+        margin: 5px 0;
+    }
+    .banner-contant p {
+        font-size: 13px;
+        margin-bottom: 12px;
+    }
+    .btn.custome {
+        font-size: 14px;
+    }
+    .third-content h3 {
+        font-size: 33px;
+        margin: 5px 0;
+    }
+    .third-content p {
+        font-size: 12px;
+        margin-bottom: 9px;
+    }
+    .contact-btn {
+        padding: 7px 22px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width:360px) {
+    .team-pic img {
+        top: -6px;
+        left: -70px;
+    }
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {
+
+}
+
+@media (max-width:px) {}
+
+@media (max-width:px) {}
+
+@media (max-width:px) {}
+
+@media (max-width:px) {}
+
+@media (max-width:px) {}
+
+
+
+
+
+
+
+
+
+
+
